@@ -1,5 +1,14 @@
-# Build a Job Board with Python & Flask
+# Python & Flask Job Board
 
+An earlier Python/Flask learning project. The setup instructions below are retained from the original exercise; this repository is not a production job-board service.
+
+## About the author
+
+I'm Sotiris Agapitidis, a data engineer and analyst working with Python, SQL, Azure and Snowflake, alongside independent AI-assisted product development.
+
+[Professional background on LinkedIn](https://www.linkedin.com/in/sotiris-agapitidis-09148410a/) · [It's All Greek 2 Me](https://itsallgreek2me.app) · [Tekmirio](https://tekmirio.lovable.app)
+
+---
 ## Verify Local Environment
 
 ### Create Virtual Environment
